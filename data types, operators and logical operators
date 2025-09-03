@@ -1,0 +1,24 @@
+🔹 Data Types in Python
+int → whole numbers (e.g., 5, -3)
+float → decimal numbers (e.g., 5.5, 3.14)
+str → text/strings (e.g., "Hello")
+
+bool → Boolean values (True or False)
+🔹 Arithmetic Operators
++ → addition (3 + 2 = 5)
+- → subtraction (5 - 2 = 3)
+* → multiplication (3 * 2 = 6)
+/ → division (6 / 2 = 3.0)
+% → modulo (remainder, 7 % 3 = 1)
+** → exponentiation (2 ** 3 = 8)
+
+🔹 Input & Conversion
+input() → gets user input as a string
+int() → converts a value to an integer (int("5") → 5)
+float() → converts a value to a decimal number (float("5.5") → 5.5)
+
+A	      B	    A and B	  A or B
+False	False  	False   	False
+False	True	  False   	True
+True	False	  False   	True
+True	True	  True	    True 
